@@ -1,5 +1,7 @@
 # 2024_IBP_Project
 Mert Taban 2010206057
+
+Laravel 9, MySQL ve AdminLTE Şablonunu kullanarak bir spor salonu bayilik sitesi yaptım.
 ![WhatsApp Görsel 2024-06-09 saat 13 32 59_799df344](https://github.com/MertTaban/2024_IBP_Project/assets/115030664/8510c96e-9111-4dd4-8e0e-35c67aaacedd)
 ![WhatsApp Görsel 2024-06-09 saat 13 31 25_0c28354e](https://github.com/MertTaban/2024_IBP_Project/assets/115030664/d7a6d36e-bef5-48ad-84ed-bdd4ab0f73aa)
 ![WhatsApp Görsel 2024-06-09 saat 13 31 15_0469b36d](https://github.com/MertTaban/2024_IBP_Project/assets/115030664/f513cab3-481c-4091-9719-c680a7d0a369)
