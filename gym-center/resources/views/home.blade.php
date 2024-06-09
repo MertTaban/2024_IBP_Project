@@ -149,44 +149,45 @@
           </div>
           <!-- Trainer Card Wrapper -->
           <div class="flex flex-wrap">
+            <div class="w-full md:w-4/12 lg:mb-0 mb-12 px-4" data-aos="flip-right">
+                <div class="px-6">
+                  <img alt="..." src="{{asset('as.jpg')}}" class="shadow-lg rounded max-w-full mx-auto" style="max-width: 250px"/>
+                  <div class="pt-6 text-center">
+                    <h5 class="text-xl font-bold">AğırSağlam</h5>
+                    <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
+                      AğırSağlam Kanalı Kurucusu
+                    </p>
+                  </div>
+                </div>
+              </div>
             <!-- Card 1 -->
             <div
               class="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
               data-aos="flip-right"
             >
               <div class="px-6">
-                <img alt="..." src="{{asset('ege.jpg')}}" class="shadow-lg rounded max-w-full mx-auto" style="max-width: 250px"/>
+                <img alt="..." src="{{asset('cenk2.jpg')}}" class="shadow-lg rounded max-w-full mx-auto" style="max-width: 250px"/>
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Ege K</h5>
+                  <h5 class="text-xl font-bold">Cenk Koçak</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    WAT Fitness Koçu
+                    Dünya Powerlifting Rekortmeni
                   </p>
                 </div>
               </div>
             </div>
             <!-- Card 2 -->
-            <div class="w-full md:w-4/12 lg:mb-0 mb-12 px-4" data-aos="flip-right">
-              <div class="px-6">
-                <img alt="..." src="{{asset('cenk.jpg')}}" class="shadow-lg rounded max-w-full mx-auto" style="max-width: 250px"/>
-                <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Cenk Hoca</h5>
-                  <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    Amerika'da Fitness Koç
-                  </p>
-                </div>
-              </div>
-            </div>
+
             <!-- Card 3 -->
             <div
               class="w-full md:w-4/12 lg:mb-0 mb-12 px-4"
               data-aos="flip-right"
             >
               <div class="px-6">
-                <img alt="..." src="{{asset('kadir.jpg')}}" class="shadow-lg rounded max-w-full mx-auto" style="max-width: 250px" />
+                <img alt="..." src="{{asset('guray.jpeg')}}" class="shadow-lg rounded max-w-full mx-auto" style="max-width: 250px" />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Kadir Hoca</h5>
+                  <h5 class="text-xl font-bold">Dr. Güray Aydın</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    İzmit'ten Biri
+                    Türkiye Vücut Geliştirme Şamp & Doç. Doktor
                   </p>
                 </div>
               </div>
